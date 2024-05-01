@@ -106,6 +106,7 @@ body:
         - Protean 
         - Win over Cancer 
         - Dimagi
+        - Digital Green
     validations:
       required: true
 
