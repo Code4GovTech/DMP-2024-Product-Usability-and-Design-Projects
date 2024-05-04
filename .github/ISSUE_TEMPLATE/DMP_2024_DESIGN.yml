@@ -107,6 +107,7 @@ body:
         - Win over Cancer 
         - Dimagi
         - Digital Green
+        - Armman
     validations:
       required: true
 
